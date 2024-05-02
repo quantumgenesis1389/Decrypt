@@ -28,7 +28,7 @@ def decrypt_file(input_file, output_file, key):
 
 # Prompt the user to enter the file location
 while True:
-    file_location = input("Enter the location of the file you want to decrypt: ")
+    file_location = input("Enter the file path you want to decrypt: ")
     
     # Remove double quotes from the file location if present
     file_location = file_location.strip('"')
