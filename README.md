@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 2. Run the script using Python `python decrypt.py`.
 
-3. Enter the location of the file to decrypt and the decryption key.
+3. Enter the file directory you want to decrypt and the decryption key.
 
 ## Note
 
